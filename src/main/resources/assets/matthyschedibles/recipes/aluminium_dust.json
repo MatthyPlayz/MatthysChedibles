@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " u",
+    " b",
+    ""
+  ],
+  "key":
+  {
+    "u": {
+      "item": "matthyschedibles:used_filter_aluminium"
+    },
+    "b": {
+      "item": "minecraft:bucket"
+    }
+  },
+  "result":
+  {
+    "item": "matthyschedibles:aluminium_dust",
+    "count": 9,
+    "data": 2
+  }
+}

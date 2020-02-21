@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " c",
+    " f",
+    ""
+  ],
+  "key":
+  {
+    "c": {
+      "item": "minecraft:clay"
+    },
+    "b": {
+      "item": "matthyschedibles:distillery"
+    }
+  },
+  "result":
+  {
+    "item": "matthyschedibles:used_distillery_impure_aluminium",
+    "count": 9,
+    "data": 2
+  }
+}

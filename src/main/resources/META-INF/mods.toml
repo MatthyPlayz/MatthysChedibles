@@ -1,0 +1,10 @@
+modLoader="javafml" #mandatory
+loaderVersion="[31,)" #mandatory. 26 for 1.14.2, 27 for 1.14.3, 28 for 1.14.4. 29,30,31 for 1.15, 1.15.2/3
+credits="Thank you to suppergerrie2 and the internet, who made modding possible!" #optional
+[[mods]] #mandatory
+modId="matthyschedibles" #mandatory
+version="1.0" #mandatory
+displayName="Matthy's Edibles" #mandatory
+description='''
+A mod for foods and plants.
+'''
