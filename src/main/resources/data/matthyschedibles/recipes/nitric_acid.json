@@ -2,14 +2,12 @@
   "type": "minecraft:crafting_shaped",
   "pattern":
   [
-    " u",
-    " b",
-    ""
+    "ub"
   ],
   "key":
   {
     "u": {
-      "item": "matthyschedibles:used_filter_aluminium"
+      "item": "matthyschedibles:used_distillery_nitrogen_dioxide"
     },
     "b": {
       "item": "minecraft:bucket"
@@ -17,8 +15,7 @@
   },
   "result":
   {
-    "item": "matthyschedibles:aluminium_dust",
-    "count": 9,
-    "data": 2
+    "item": "matthyschedibles:nitric_acid",
+    "count": 2
   }
 }

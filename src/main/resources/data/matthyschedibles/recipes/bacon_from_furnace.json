@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "matthyschedibles:raw_bacon"
+  },
+  "result": "matthyschedibles:bacon",
+  "experience": 0.35,
+  "cookingtime": 100
+}

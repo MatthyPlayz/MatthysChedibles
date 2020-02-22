@@ -4,5 +4,9 @@
     "item.matthyschedibles.used_distillery_impure_aluminium": "UsedDistillery (Impure Aluminium Dust)",
     "item.matthyschedibles.filter": "Filter",
     "item.matthyschedibles.used_filter_aluminium": "Used Filter (Aluminium Dust)",
-    "item.matthyschedibles.aluminium_dust": "Aluminium Dust (Al)"
+    "item.matthyschedibles.aluminium_dust": "Aluminium Dust (Al)",
+    "item.matthyschedibles.raw_bacon": "Raw Bacon",
+    "item.matthyschedibles.bacon": "Bacon",
+    "item.matthyschedibles.nitric_acid": "Nitric Acid (HNO3)",
+    "item.matthyschedibles.sodium_nitrate": "Sodium Nitrate (NaNO3)"
 }

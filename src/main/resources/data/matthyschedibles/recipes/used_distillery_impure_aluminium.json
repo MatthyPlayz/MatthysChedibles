@@ -2,9 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "pattern":
   [
-    " c",
-    " f",
-    ""
+    "c",
+    "b"
   ],
   "key":
   {
@@ -17,7 +16,6 @@
   },
   "result":
   {
-    "item": "matthyschedibles:used_distillery_impure_aluminium",
-    "count": 9
+    "item": "matthyschedibles:used_distillery_impure_aluminium"
   }
 }

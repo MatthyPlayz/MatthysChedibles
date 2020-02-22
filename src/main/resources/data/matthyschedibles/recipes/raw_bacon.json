@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "sp"
+  ],
+  "key":
+  {
+    "s": {
+      "item": "matthyschedibles:sodium_nitrate"
+    },
+    "p": {
+      "item": "minecraft:porkchop"
+    }
+  },
+  "result":
+  {
+    "item": "matthyschedibles:raw_bacon",
+    "count": 9
+  }
+}

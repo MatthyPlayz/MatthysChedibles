@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "na"
+  ],
+  "key":
+  {
+    "n": {
+      "item": "matthyschedibles:nitric_acid"
+    },
+    "a": {
+      "item": "matthyschedibles:aluminium_dust"
+    }
+  },
+  "result":
+  {
+    "item": "matthyschedibles:sodium_nitrate"
+  }
+}

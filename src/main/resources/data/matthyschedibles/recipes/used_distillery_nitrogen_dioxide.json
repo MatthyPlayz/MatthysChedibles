@@ -2,14 +2,13 @@
   "type": "minecraft:crafting_shaped",
   "pattern":
   [
-    " c",
-    " f",
-    ""
+    "u",
+    "b"
   ],
   "key":
   {
-    "c": {
-      "item": "minecraft:clay"
+    "u": {
+      "item": "minecraft:bucket"
     },
     "b": {
       "item": "matthyschedibles:distillery"
@@ -17,8 +16,6 @@
   },
   "result":
   {
-    "item": "matthyschedibles:used_distillery_impure_aluminium",
-    "count": 9,
-    "data": 2
+    "item": "matthyschedibles:used_distillery_nitrogen_dioxide"
   }
 }

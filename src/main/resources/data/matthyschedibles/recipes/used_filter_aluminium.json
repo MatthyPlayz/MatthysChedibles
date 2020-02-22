@@ -2,9 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "pattern":
   [
-    " u",
-    " f",
-    ""
+    "u",
+    "f"
   ],
   "key":
   {
@@ -17,7 +16,7 @@
   },
   "result":
   {
-    "item": "matthyschedibles:aluminium_dust",
+    "item": "matthyschedibles:used_filter_aluminium",
     "count": 9
   }
 }
